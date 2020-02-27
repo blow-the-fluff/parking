@@ -1,0 +1,546 @@
+[
+{
+ "frame_id":1, 
+ "filename":"../../data/rwdata/0a.jpg", 
+ "objects": [ 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.836511, "center_y":0.454352, "width":0.020975, "height":0.015156}, "confidence":0.462968}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.790882, "center_y":0.452373, "width":0.037478, "height":0.017088}, "confidence":0.484050}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.764139, "center_y":0.452006, "width":0.032478, "height":0.016905}, "confidence":0.273387}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.720376, "center_y":0.451867, "width":0.015978, "height":0.015505}, "confidence":0.879739}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.696170, "center_y":0.451565, "width":0.016317, "height":0.013127}, "confidence":0.907894}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.675892, "center_y":0.452096, "width":0.012369, "height":0.011964}, "confidence":0.444118}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.315088, "center_y":0.678107, "width":0.186656, "height":0.023404}, "confidence":0.898564}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.221808, "center_y":0.394064, "width":0.182548, "height":0.021727}, "confidence":0.904105}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.120666, "center_y":0.243997, "width":0.014901, "height":0.007221}, "confidence":0.783637}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.198885, "center_y":0.176044, "width":0.183536, "height":0.012054}, "confidence":0.722906}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"../../data/rwdata/10a.jpg", 
+ "objects": [ 
+  {"class_id":16, "name":"Tax2", "relative_coordinates":{"center_x":0.305822, "center_y":0.237797, "width":0.013587, "height":0.007191}, "confidence":0.809064}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.876634, "center_y":0.453251, "width":0.011816, "height":0.015786}, "confidence":0.896360}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.859309, "center_y":0.450096, "width":0.018664, "height":0.012821}, "confidence":0.983030}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.838455, "center_y":0.449475, "width":0.019022, "height":0.015056}, "confidence":0.991555}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.791310, "center_y":0.449379, "width":0.014868, "height":0.013575}, "confidence":0.980966}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.771833, "center_y":0.447536, "width":0.016087, "height":0.013443}, "confidence":0.910920}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.722347, "center_y":0.449315, "width":0.012030, "height":0.017086}, "confidence":0.899446}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.701227, "center_y":0.449272, "width":0.014815, "height":0.011406}, "confidence":0.845973}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.679172, "center_y":0.447506, "width":0.016324, "height":0.013602}, "confidence":0.756300}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.310132, "center_y":0.674453, "width":0.177437, "height":0.024387}, "confidence":0.983522}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.147833, "center_y":0.238655, "width":0.040970, "height":0.016198}, "confidence":0.843110}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.147833, "center_y":0.238655, "width":0.040970, "height":0.016198}, "confidence":0.276007}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.263039, "center_y":0.359252, "width":0.277817, "height":0.020017}, "confidence":0.402885}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"../../data/rwdata/11a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.754681, "center_y":0.675083, "width":0.121129, "height":0.026195}, "confidence":0.998804}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.363212, "center_y":0.675423, "width":0.263380, "height":0.024644}, "confidence":0.992485}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.542477, "center_y":0.202449, "width":0.178437, "height":0.030021}, "confidence":0.652128}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.249520, "center_y":0.370228, "width":0.202481, "height":0.021718}, "confidence":0.737020}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.360937, "center_y":0.348301, "width":0.285093, "height":0.022758}, "confidence":0.757380}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"../../data/rwdata/12a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.728864, "center_y":0.677455, "width":0.094095, "height":0.021884}, "confidence":0.999816}, 
+  {"class_id":19, "name":"Tax5", "relative_coordinates":{"center_x":0.644001, "center_y":0.239230, "width":0.016219, "height":0.006447}, "confidence":0.549114}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.859454, "center_y":0.450671, "width":0.020651, "height":0.012304}, "confidence":0.654707}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.837583, "center_y":0.451001, "width":0.019169, "height":0.014712}, "confidence":0.347693}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.796730, "center_y":0.449965, "width":0.019653, "height":0.014501}, "confidence":0.434008}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.773763, "center_y":0.449966, "width":0.034342, "height":0.020130}, "confidence":0.639104}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.728970, "center_y":0.450677, "width":0.019505, "height":0.017044}, "confidence":0.876482}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.701914, "center_y":0.448278, "width":0.020263, "height":0.015829}, "confidence":0.986202}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.679803, "center_y":0.448775, "width":0.013858, "height":0.015455}, "confidence":0.974155}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.333876, "center_y":0.676424, "width":0.207299, "height":0.027626}, "confidence":0.985822}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.257119, "center_y":0.365561, "width":0.236111, "height":0.017197}, "confidence":0.590453}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.328408, "center_y":0.355971, "width":0.332861, "height":0.019653}, "confidence":0.809861}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"../../data/rwdata/13a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.741504, "center_y":0.675999, "width":0.103002, "height":0.017310}, "confidence":0.999805}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.907196, "center_y":0.450225, "width":0.017423, "height":0.016706}, "confidence":0.494660}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.879856, "center_y":0.449903, "width":0.015947, "height":0.014691}, "confidence":0.459570}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.859992, "center_y":0.451376, "width":0.013498, "height":0.015921}, "confidence":0.986626}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.839605, "center_y":0.449567, "width":0.016095, "height":0.015467}, "confidence":0.988745}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.796165, "center_y":0.450431, "width":0.019656, "height":0.016354}, "confidence":0.902264}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.766313, "center_y":0.450605, "width":0.018653, "height":0.015254}, "confidence":0.783967}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.727253, "center_y":0.450909, "width":0.019720, "height":0.015054}, "confidence":0.890944}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.703219, "center_y":0.449831, "width":0.022233, "height":0.012804}, "confidence":0.973775}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.676657, "center_y":0.450647, "width":0.013550, "height":0.012533}, "confidence":0.977386}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.263865, "center_y":0.679034, "width":0.062759, "height":0.018253}, "confidence":0.857784}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.252569, "center_y":0.204840, "width":0.203974, "height":0.018128}, "confidence":0.994327}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.322876, "center_y":0.351001, "width":0.345957, "height":0.021183}, "confidence":0.456610}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.222991, "center_y":0.175717, "width":0.209463, "height":0.022922}, "confidence":0.836717}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"../../data/rwdata/14a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.735970, "center_y":0.675683, "width":0.124126, "height":0.015111}, "confidence":0.999102}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.863869, "center_y":0.448108, "width":0.018571, "height":0.013976}, "confidence":0.698874}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.838839, "center_y":0.449297, "width":0.017664, "height":0.015877}, "confidence":0.940286}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.797749, "center_y":0.447279, "width":0.012304, "height":0.018181}, "confidence":0.944801}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.771149, "center_y":0.450048, "width":0.013687, "height":0.016822}, "confidence":0.854764}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.732911, "center_y":0.448137, "width":0.035207, "height":0.018983}, "confidence":0.460038}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.704947, "center_y":0.449852, "width":0.019967, "height":0.015241}, "confidence":0.724122}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.683227, "center_y":0.450284, "width":0.018832, "height":0.016442}, "confidence":0.925567}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.357602, "center_y":0.673365, "width":0.275882, "height":0.017265}, "confidence":0.937165}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.226791, "center_y":0.374297, "width":0.102793, "height":0.016292}, "confidence":0.582223}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.184678, "center_y":0.202134, "width":0.061823, "height":0.013486}, "confidence":0.999018}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.358348, "center_y":0.352798, "width":0.343390, "height":0.021812}, "confidence":0.379326}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.131839, "center_y":0.240238, "width":0.010563, "height":0.006458}, "confidence":0.456529}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.218955, "center_y":0.174286, "width":0.204943, "height":0.021463}, "confidence":0.811790}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"../../data/rwdata/15a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.792499, "center_y":0.675672, "width":0.189230, "height":0.024130}, "confidence":0.773101}, 
+  {"class_id":20, "name":"Tax6", "relative_coordinates":{"center_x":0.127556, "center_y":0.267829, "width":0.017122, "height":0.009804}, "confidence":0.989059}, 
+  {"class_id":18, "name":"Tax4", "relative_coordinates":{"center_x":0.527939, "center_y":0.238340, "width":0.016348, "height":0.006908}, "confidence":0.770735}, 
+  {"class_id":16, "name":"Tax2", "relative_coordinates":{"center_x":0.420112, "center_y":0.239300, "width":0.021548, "height":0.010395}, "confidence":0.514653}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.909682, "center_y":0.450777, "width":0.019214, "height":0.017152}, "confidence":0.818240}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.878542, "center_y":0.452904, "width":0.018241, "height":0.015131}, "confidence":0.846140}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.858705, "center_y":0.450535, "width":0.017539, "height":0.013801}, "confidence":0.959106}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.837873, "center_y":0.450217, "width":0.016591, "height":0.016474}, "confidence":0.960827}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.798030, "center_y":0.449117, "width":0.018818, "height":0.017144}, "confidence":0.974374}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.774057, "center_y":0.449034, "width":0.019009, "height":0.017317}, "confidence":0.578221}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.773836, "center_y":0.448300, "width":0.028903, "height":0.019255}, "confidence":0.682236}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.728456, "center_y":0.449039, "width":0.015383, "height":0.016877}, "confidence":0.948464}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.706383, "center_y":0.447786, "width":0.014130, "height":0.017213}, "confidence":0.984378}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.681864, "center_y":0.450734, "width":0.016635, "height":0.015996}, "confidence":0.995927}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.295624, "center_y":0.354650, "width":0.193525, "height":0.025285}, "confidence":0.967707}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.356385, "center_y":0.175494, "width":0.146439, "height":0.025755}, "confidence":0.426386}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"../../data/rwdata/16a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.743558, "center_y":0.675536, "width":0.110446, "height":0.014167}, "confidence":0.999213}, 
+  {"class_id":18, "name":"Tax4", "relative_coordinates":{"center_x":0.541533, "center_y":0.237136, "width":0.022904, "height":0.010033}, "confidence":0.426599}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.908626, "center_y":0.452026, "width":0.017602, "height":0.015781}, "confidence":0.682808}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.890385, "center_y":0.451856, "width":0.014332, "height":0.015404}, "confidence":0.828454}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.862621, "center_y":0.452176, "width":0.015658, "height":0.013545}, "confidence":0.433816}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.842440, "center_y":0.448957, "width":0.017089, "height":0.011774}, "confidence":0.880841}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.795426, "center_y":0.453437, "width":0.021080, "height":0.011669}, "confidence":0.472058}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.726543, "center_y":0.450244, "width":0.014173, "height":0.013345}, "confidence":0.257590}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.717166, "center_y":0.449476, "width":0.041128, "height":0.015163}, "confidence":0.304605}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.681995, "center_y":0.450881, "width":0.018590, "height":0.012039}, "confidence":0.975684}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.339758, "center_y":0.677729, "width":0.243175, "height":0.023402}, "confidence":0.826070}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.404757, "center_y":0.683337, "width":0.268669, "height":0.024583}, "confidence":0.512403}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.295127, "center_y":0.371952, "width":0.131927, "height":0.014400}, "confidence":0.517449}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.243361, "center_y":0.361544, "width":0.257960, "height":0.017490}, "confidence":0.599906}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.129271, "center_y":0.239724, "width":0.012327, "height":0.006179}, "confidence":0.268078}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.201198, "center_y":0.176609, "width":0.181865, "height":0.013276}, "confidence":0.820284}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"../../data/rwdata/17a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.744329, "center_y":0.679134, "width":0.126488, "height":0.018620}, "confidence":0.964987}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.873069, "center_y":0.450870, "width":0.011212, "height":0.011670}, "confidence":0.345735}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.836753, "center_y":0.434716, "width":0.017362, "height":0.006113}, "confidence":0.485087}, 
+  {"class_id":5, "name":"Requester", "relative_coordinates":{"center_x":0.678788, "center_y":0.353695, "width":0.053699, "height":0.022356}, "confidence":0.564588}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.240398, "center_y":0.360942, "width":0.245465, "height":0.020997}, "confidence":0.834125}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.240398, "center_y":0.360942, "width":0.245465, "height":0.020997}, "confidence":0.661570}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.187490, "center_y":0.397034, "width":0.121263, "height":0.015837}, "confidence":0.262842}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.182229, "center_y":0.202960, "width":0.114761, "height":0.015565}, "confidence":0.989607}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.141130, "center_y":0.239946, "width":0.028786, "height":0.009485}, "confidence":0.930330}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.184972, "center_y":0.177701, "width":0.112555, "height":0.018019}, "confidence":0.997276}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"../../data/rwdata/18a.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.704651, "center_y":0.449640, "width":0.021757, "height":0.011693}, "confidence":0.542133}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.300384, "center_y":0.672526, "width":0.156812, "height":0.022332}, "confidence":0.940500}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.785302, "center_y":0.503956, "width":0.246054, "height":0.037109}, "confidence":0.300981}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.259246, "center_y":0.358465, "width":0.302473, "height":0.028089}, "confidence":0.916478}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"../../data/rwdata/19a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.778782, "center_y":0.677050, "width":0.199162, "height":0.034168}, "confidence":0.278248}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.910126, "center_y":0.448203, "width":0.018107, "height":0.014639}, "confidence":0.405769}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.840987, "center_y":0.447514, "width":0.020960, "height":0.013578}, "confidence":0.422133}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.795605, "center_y":0.450710, "width":0.017779, "height":0.014890}, "confidence":0.945653}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.774583, "center_y":0.450519, "width":0.013677, "height":0.016041}, "confidence":0.963536}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.726205, "center_y":0.450350, "width":0.019574, "height":0.013772}, "confidence":0.961087}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.705635, "center_y":0.449812, "width":0.019544, "height":0.015611}, "confidence":0.822018}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.684252, "center_y":0.447933, "width":0.019564, "height":0.015436}, "confidence":0.811658}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.337357, "center_y":0.673665, "width":0.214470, "height":0.029410}, "confidence":0.927788}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.264521, "center_y":0.365411, "width":0.314830, "height":0.018827}, "confidence":0.557583}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.329000, "center_y":0.355552, "width":0.362937, "height":0.020312}, "confidence":0.367106}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.297084, "center_y":0.354438, "width":0.360211, "height":0.019186}, "confidence":0.615815}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.261683, "center_y":0.199447, "width":0.259172, "height":0.018830}, "confidence":0.858169}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.132564, "center_y":0.239074, "width":0.011672, "height":0.007395}, "confidence":0.872079}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.294342, "center_y":0.175371, "width":0.249426, "height":0.023904}, "confidence":0.274343}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"../../data/rwdata/1a.jpg", 
+ "objects": [ 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.913431, "center_y":0.454236, "width":0.018253, "height":0.012215}, "confidence":0.981963}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.887554, "center_y":0.458040, "width":0.016147, "height":0.014310}, "confidence":0.920816}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.863327, "center_y":0.457097, "width":0.014267, "height":0.014428}, "confidence":0.587043}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.842049, "center_y":0.455948, "width":0.015166, "height":0.014277}, "confidence":0.909633}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.800282, "center_y":0.452971, "width":0.012833, "height":0.016305}, "confidence":0.908408}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.773155, "center_y":0.453073, "width":0.017336, "height":0.010901}, "confidence":0.832927}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.732286, "center_y":0.452010, "width":0.015454, "height":0.012703}, "confidence":0.799573}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.706381, "center_y":0.455339, "width":0.016691, "height":0.010192}, "confidence":0.912052}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.688134, "center_y":0.457050, "width":0.017474, "height":0.012799}, "confidence":0.897276}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.254364, "center_y":0.679536, "width":0.089589, "height":0.016854}, "confidence":0.960901}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.202554, "center_y":0.203515, "width":0.151752, "height":0.012477}, "confidence":0.840223}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.237523, "center_y":0.356513, "width":0.196820, "height":0.017708}, "confidence":0.411465}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.224096, "center_y":0.365507, "width":0.199743, "height":0.018306}, "confidence":0.301946}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.142182, "center_y":0.242856, "width":0.026553, "height":0.008507}, "confidence":0.721254}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.140086, "center_y":0.266032, "width":0.023158, "height":0.006760}, "confidence":0.320176}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.224918, "center_y":0.175993, "width":0.184210, "height":0.018192}, "confidence":0.528885}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"../../data/rwdata/20a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.778713, "center_y":0.676032, "width":0.177404, "height":0.029515}, "confidence":0.590141}, 
+  {"class_id":18, "name":"Tax4", "relative_coordinates":{"center_x":0.529810, "center_y":0.238865, "width":0.017317, "height":0.008327}, "confidence":0.939984}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.862970, "center_y":0.447417, "width":0.015573, "height":0.015281}, "confidence":0.885143}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.836376, "center_y":0.448711, "width":0.011158, "height":0.019760}, "confidence":0.998007}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.795752, "center_y":0.450058, "width":0.017118, "height":0.016305}, "confidence":0.931378}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.773510, "center_y":0.448579, "width":0.019839, "height":0.016308}, "confidence":0.946075}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.728075, "center_y":0.447612, "width":0.015962, "height":0.020015}, "confidence":0.965315}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.703609, "center_y":0.448163, "width":0.014987, "height":0.018291}, "confidence":0.982505}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.678336, "center_y":0.449706, "width":0.015937, "height":0.020320}, "confidence":0.861230}, 
+  {"class_id":5, "name":"Requester", "relative_coordinates":{"center_x":0.739467, "center_y":0.350322, "width":0.222799, "height":0.026194}, "confidence":0.993766}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.335544, "center_y":0.362908, "width":0.314460, "height":0.023888}, "confidence":0.388676}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.293484, "center_y":0.198697, "width":0.234940, "height":0.017227}, "confidence":0.468001}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.299214, "center_y":0.343704, "width":0.294794, "height":0.021120}, "confidence":0.602039}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.283199, "center_y":0.171148, "width":0.209271, "height":0.023602}, "confidence":0.692738}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"../../data/rwdata/21a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.754670, "center_y":0.674089, "width":0.134330, "height":0.024305}, "confidence":0.989326}, 
+  {"class_id":20, "name":"Tax6", "relative_coordinates":{"center_x":0.126471, "center_y":0.263831, "width":0.014076, "height":0.006955}, "confidence":0.839228}, 
+  {"class_id":17, "name":"Tax3", "relative_coordinates":{"center_x":0.413912, "center_y":0.237831, "width":0.011355, "height":0.007632}, "confidence":0.289087}, 
+  {"class_id":16, "name":"Tax2", "relative_coordinates":{"center_x":0.316356, "center_y":0.234279, "width":0.029478, "height":0.011379}, "confidence":0.496735}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.911407, "center_y":0.445105, "width":0.021513, "height":0.012902}, "confidence":0.771274}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.887360, "center_y":0.447076, "width":0.020948, "height":0.011098}, "confidence":0.946495}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.862548, "center_y":0.447900, "width":0.016704, "height":0.012198}, "confidence":0.627526}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.839527, "center_y":0.448515, "width":0.015892, "height":0.014960}, "confidence":0.950006}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.797114, "center_y":0.448476, "width":0.012241, "height":0.017080}, "confidence":0.903691}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.775846, "center_y":0.452229, "width":0.013807, "height":0.016611}, "confidence":0.783941}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.765672, "center_y":0.451946, "width":0.013111, "height":0.011600}, "confidence":0.416057}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.725236, "center_y":0.447819, "width":0.012383, "height":0.014782}, "confidence":0.874485}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.701630, "center_y":0.446501, "width":0.018748, "height":0.013370}, "confidence":0.966019}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.681131, "center_y":0.448144, "width":0.019229, "height":0.013372}, "confidence":0.885745}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.261248, "center_y":0.678752, "width":0.072448, "height":0.021430}, "confidence":0.998964}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.224678, "center_y":0.352575, "width":0.198005, "height":0.018967}, "confidence":0.989047}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.125974, "center_y":0.239673, "width":0.013696, "height":0.008130}, "confidence":0.976358}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.198878, "center_y":0.173860, "width":0.171534, "height":0.019088}, "confidence":0.984032}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"../../data/rwdata/22a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.745823, "center_y":0.682665, "width":0.116314, "height":0.019944}, "confidence":0.989158}, 
+  {"class_id":20, "name":"Tax6", "relative_coordinates":{"center_x":0.132892, "center_y":0.271810, "width":0.012155, "height":0.009062}, "confidence":0.414608}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.912913, "center_y":0.454463, "width":0.019059, "height":0.011860}, "confidence":0.888256}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.890514, "center_y":0.455252, "width":0.017928, "height":0.012113}, "confidence":0.968564}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.867201, "center_y":0.454496, "width":0.014067, "height":0.011912}, "confidence":0.747937}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.844467, "center_y":0.453591, "width":0.015321, "height":0.013620}, "confidence":0.895205}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.801340, "center_y":0.458148, "width":0.018987, "height":0.013707}, "confidence":0.946517}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.779332, "center_y":0.456346, "width":0.019617, "height":0.014826}, "confidence":0.974523}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.735651, "center_y":0.454034, "width":0.018657, "height":0.013460}, "confidence":0.967914}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.707189, "center_y":0.452336, "width":0.016253, "height":0.013102}, "confidence":0.988899}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.686647, "center_y":0.453972, "width":0.017224, "height":0.014233}, "confidence":0.966806}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.317752, "center_y":0.674637, "width":0.163499, "height":0.023463}, "confidence":0.971833}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.303398, "center_y":0.206111, "width":0.234610, "height":0.017183}, "confidence":0.582621}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.326845, "center_y":0.373331, "width":0.292867, "height":0.021506}, "confidence":0.510744}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.139096, "center_y":0.245440, "width":0.024580, "height":0.009975}, "confidence":0.712638}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.351260, "center_y":0.176594, "width":0.174129, "height":0.020844}, "confidence":0.608526}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"../../data/rwdata/23a.jpg", 
+ "objects": [ 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.911534, "center_y":0.446587, "width":0.019917, "height":0.014846}, "confidence":0.663245}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.886689, "center_y":0.448419, "width":0.023150, "height":0.015588}, "confidence":0.849673}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.861859, "center_y":0.448541, "width":0.019658, "height":0.013546}, "confidence":0.738370}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.838709, "center_y":0.448513, "width":0.019453, "height":0.014987}, "confidence":0.831520}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.797500, "center_y":0.449252, "width":0.020920, "height":0.014142}, "confidence":0.992360}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.772792, "center_y":0.449194, "width":0.016838, "height":0.016103}, "confidence":0.981919}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.729919, "center_y":0.449538, "width":0.014760, "height":0.017699}, "confidence":0.729973}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.704432, "center_y":0.449770, "width":0.018488, "height":0.014408}, "confidence":0.981146}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.678821, "center_y":0.447650, "width":0.014122, "height":0.017766}, "confidence":0.953649}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.297250, "center_y":0.365379, "width":0.265103, "height":0.020842}, "confidence":0.959470}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.289972, "center_y":0.344767, "width":0.333383, "height":0.022061}, "confidence":0.848425}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.323490, "center_y":0.355491, "width":0.275841, "height":0.023269}, "confidence":0.252273}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"../../data/rwdata/24a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.772212, "center_y":0.677317, "width":0.188565, "height":0.020513}, "confidence":0.794289}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.285892, "center_y":0.675678, "width":0.130421, "height":0.016894}, "confidence":0.967065}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.216352, "center_y":0.389452, "width":0.173939, "height":0.020225}, "confidence":0.994532}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.182231, "center_y":0.201990, "width":0.125851, "height":0.015254}, "confidence":0.317913}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.236519, "center_y":0.353285, "width":0.215159, "height":0.020663}, "confidence":0.930406}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.130741, "center_y":0.238015, "width":0.032907, "height":0.013392}, "confidence":0.504167}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"../../data/rwdata/25a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.771530, "center_y":0.679569, "width":0.183724, "height":0.019147}, "confidence":0.444921}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.136046, "center_y":0.262477, "width":0.022853, "height":0.010186}, "confidence":0.438315}, 
+  {"class_id":20, "name":"Tax6", "relative_coordinates":{"center_x":0.136046, "center_y":0.262477, "width":0.022853, "height":0.010186}, "confidence":0.500539}, 
+  {"class_id":16, "name":"Tax2", "relative_coordinates":{"center_x":0.311685, "center_y":0.235156, "width":0.019616, "height":0.006736}, "confidence":0.326314}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.727180, "center_y":0.452714, "width":0.018648, "height":0.014251}, "confidence":0.325684}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.709582, "center_y":0.453656, "width":0.015177, "height":0.015103}, "confidence":0.488451}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.682755, "center_y":0.451124, "width":0.020005, "height":0.013797}, "confidence":0.532562}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.313265, "center_y":0.671410, "width":0.171598, "height":0.021045}, "confidence":0.960220}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.521184, "center_y":0.202592, "width":0.268030, "height":0.018861}, "confidence":0.260598}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.335462, "center_y":0.200693, "width":0.347056, "height":0.018630}, "confidence":0.329044}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.141686, "center_y":0.238878, "width":0.025831, "height":0.010173}, "confidence":0.765153}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"../../data/rwdata/26a.jpg", 
+ "objects": [ 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.913834, "center_y":0.454065, "width":0.021090, "height":0.013897}, "confidence":0.374840}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.892134, "center_y":0.454031, "width":0.018178, "height":0.012827}, "confidence":0.897970}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.840530, "center_y":0.453001, "width":0.016127, "height":0.012153}, "confidence":0.610752}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.797755, "center_y":0.453452, "width":0.013988, "height":0.014996}, "confidence":0.878743}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.778539, "center_y":0.453725, "width":0.016693, "height":0.015302}, "confidence":0.932969}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.731805, "center_y":0.451149, "width":0.015070, "height":0.016267}, "confidence":0.903176}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.705196, "center_y":0.452257, "width":0.013812, "height":0.014692}, "confidence":0.973808}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.683626, "center_y":0.453558, "width":0.016599, "height":0.014186}, "confidence":0.968462}, 
+  {"class_id":5, "name":"Requester", "relative_coordinates":{"center_x":0.712013, "center_y":0.363718, "width":0.125287, "height":0.030678}, "confidence":0.277477}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.246744, "center_y":0.366846, "width":0.194843, "height":0.020908}, "confidence":0.931540}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.272487, "center_y":0.200833, "width":0.201097, "height":0.017890}, "confidence":0.851984}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.252289, "center_y":0.344496, "width":0.221571, "height":0.018445}, "confidence":0.971474}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.241774, "center_y":0.175015, "width":0.196963, "height":0.023168}, "confidence":0.979438}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"../../data/rwdata/27a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.744976, "center_y":0.678433, "width":0.147369, "height":0.016278}, "confidence":0.986648}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.891097, "center_y":0.456636, "width":0.022991, "height":0.015429}, "confidence":0.317067}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.840024, "center_y":0.455645, "width":0.019376, "height":0.015306}, "confidence":0.252868}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.798595, "center_y":0.454307, "width":0.019355, "height":0.014514}, "confidence":0.669603}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.779220, "center_y":0.454613, "width":0.015550, "height":0.015418}, "confidence":0.610869}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.734709, "center_y":0.452978, "width":0.038596, "height":0.018854}, "confidence":0.558809}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.732784, "center_y":0.452936, "width":0.019999, "height":0.015525}, "confidence":0.483982}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.706721, "center_y":0.451621, "width":0.018806, "height":0.015083}, "confidence":0.971269}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.682625, "center_y":0.451755, "width":0.019007, "height":0.014035}, "confidence":0.991392}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.273944, "center_y":0.674597, "width":0.128039, "height":0.014166}, "confidence":0.978977}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.170602, "center_y":0.370100, "width":0.097337, "height":0.014323}, "confidence":0.993870}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.265172, "center_y":0.199118, "width":0.279520, "height":0.016999}, "confidence":0.539089}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.334523, "center_y":0.347300, "width":0.320011, "height":0.018179}, "confidence":0.252768}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.137085, "center_y":0.238158, "width":0.021037, "height":0.009140}, "confidence":0.980374}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.260568, "center_y":0.174698, "width":0.277894, "height":0.017555}, "confidence":0.774725}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"../../data/rwdata/2a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.754035, "center_y":0.680059, "width":0.109978, "height":0.018199}, "confidence":0.992521}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.891679, "center_y":0.455585, "width":0.018661, "height":0.014119}, "confidence":0.654463}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.847872, "center_y":0.455636, "width":0.013990, "height":0.014001}, "confidence":0.540280}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.847872, "center_y":0.455636, "width":0.013990, "height":0.014001}, "confidence":0.689232}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.874670, "center_y":0.454639, "width":0.011257, "height":0.013787}, "confidence":0.379619}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.801775, "center_y":0.452122, "width":0.014954, "height":0.012539}, "confidence":0.630540}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.779956, "center_y":0.454230, "width":0.016143, "height":0.014666}, "confidence":0.837658}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.736395, "center_y":0.452797, "width":0.012292, "height":0.012586}, "confidence":0.330335}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.703846, "center_y":0.453934, "width":0.017023, "height":0.010374}, "confidence":0.934341}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.684762, "center_y":0.455432, "width":0.016728, "height":0.011356}, "confidence":0.954998}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.235889, "center_y":0.678597, "width":0.052695, "height":0.022845}, "confidence":0.981101}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.218922, "center_y":0.358885, "width":0.182707, "height":0.018266}, "confidence":0.370224}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.202524, "center_y":0.201292, "width":0.143469, "height":0.015015}, "confidence":0.766212}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.216779, "center_y":0.344725, "width":0.143995, "height":0.012588}, "confidence":0.667961}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.140072, "center_y":0.237181, "width":0.022634, "height":0.009259}, "confidence":0.979196}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.210051, "center_y":0.176547, "width":0.165776, "height":0.017387}, "confidence":0.800343}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"../../data/rwdata/3a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.747960, "center_y":0.673919, "width":0.146003, "height":0.020982}, "confidence":0.965017}, 
+  {"class_id":20, "name":"Tax6", "relative_coordinates":{"center_x":0.125678, "center_y":0.264347, "width":0.014691, "height":0.008182}, "confidence":0.657074}, 
+  {"class_id":19, "name":"Tax5", "relative_coordinates":{"center_x":0.647283, "center_y":0.236738, "width":0.028986, "height":0.011947}, "confidence":0.712725}, 
+  {"class_id":18, "name":"Tax4", "relative_coordinates":{"center_x":0.528843, "center_y":0.238936, "width":0.015011, "height":0.006871}, "confidence":0.273127}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.889261, "center_y":0.446594, "width":0.019521, "height":0.014692}, "confidence":0.464237}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.889261, "center_y":0.446594, "width":0.019521, "height":0.014692}, "confidence":0.551222}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.861621, "center_y":0.449527, "width":0.018280, "height":0.016380}, "confidence":0.707522}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.833376, "center_y":0.445426, "width":0.014497, "height":0.016846}, "confidence":0.773820}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.798607, "center_y":0.446346, "width":0.032179, "height":0.019307}, "confidence":0.642207}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.775709, "center_y":0.447587, "width":0.018197, "height":0.016392}, "confidence":0.822136}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.775709, "center_y":0.447587, "width":0.018197, "height":0.016392}, "confidence":0.500640}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.732078, "center_y":0.446984, "width":0.019785, "height":0.016036}, "confidence":0.335685}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.734067, "center_y":0.445764, "width":0.035628, "height":0.019709}, "confidence":0.515880}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.705112, "center_y":0.447759, "width":0.029255, "height":0.020366}, "confidence":0.796369}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.679043, "center_y":0.447522, "width":0.013167, "height":0.017802}, "confidence":0.755547}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.379142, "center_y":0.676216, "width":0.294150, "height":0.029414}, "confidence":0.920202}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.373026, "center_y":0.374995, "width":0.259155, "height":0.026411}, "confidence":0.704447}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.518126, "center_y":0.398906, "width":0.302536, "height":0.034825}, "confidence":0.447112}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.297097, "center_y":0.348123, "width":0.287978, "height":0.025457}, "confidence":0.907734}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"../../data/rwdata/4a.jpg", 
+ "objects": [ 
+  {"class_id":17, "name":"Tax3", "relative_coordinates":{"center_x":0.416211, "center_y":0.240034, "width":0.011939, "height":0.007929}, "confidence":0.391971}, 
+  {"class_id":16, "name":"Tax2", "relative_coordinates":{"center_x":0.314375, "center_y":0.237030, "width":0.026661, "height":0.011508}, "confidence":0.927163}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.910087, "center_y":0.454086, "width":0.020061, "height":0.013648}, "confidence":0.668638}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.880812, "center_y":0.453467, "width":0.018801, "height":0.012748}, "confidence":0.674363}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.858449, "center_y":0.454131, "width":0.015498, "height":0.014804}, "confidence":0.852461}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.841011, "center_y":0.452272, "width":0.016053, "height":0.013983}, "confidence":0.922826}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.798462, "center_y":0.454254, "width":0.021300, "height":0.014534}, "confidence":0.947570}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.771886, "center_y":0.454415, "width":0.019579, "height":0.014196}, "confidence":0.788931}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.727311, "center_y":0.454594, "width":0.018079, "height":0.013045}, "confidence":0.989757}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.702122, "center_y":0.454546, "width":0.016243, "height":0.013087}, "confidence":0.965812}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.679369, "center_y":0.452511, "width":0.019792, "height":0.013815}, "confidence":0.992863}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.411101, "center_y":0.671455, "width":0.298352, "height":0.025738}, "confidence":0.940484}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.363154, "center_y":0.377240, "width":0.355929, "height":0.019292}, "confidence":0.953644}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.207870, "center_y":0.202932, "width":0.144224, "height":0.014351}, "confidence":0.981962}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.258046, "center_y":0.358480, "width":0.260823, "height":0.017811}, "confidence":0.931655}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.132283, "center_y":0.241282, "width":0.013783, "height":0.006831}, "confidence":0.770035}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.208201, "center_y":0.176813, "width":0.148404, "height":0.019803}, "confidence":0.990611}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"../../data/rwdata/5a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.768028, "center_y":0.677273, "width":0.159815, "height":0.019683}, "confidence":0.846037}, 
+  {"class_id":20, "name":"Tax6", "relative_coordinates":{"center_x":0.130218, "center_y":0.270892, "width":0.017292, "height":0.011554}, "confidence":0.607405}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.413743, "center_y":0.677148, "width":0.330917, "height":0.026827}, "confidence":0.518455}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.282756, "center_y":0.360187, "width":0.303165, "height":0.016707}, "confidence":0.931052}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.282756, "center_y":0.360187, "width":0.303165, "height":0.016707}, "confidence":0.424939}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.187750, "center_y":0.203227, "width":0.111313, "height":0.014883}, "confidence":0.992784}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.127894, "center_y":0.241851, "width":0.017306, "height":0.007681}, "confidence":0.293615}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.211662, "center_y":0.179910, "width":0.168667, "height":0.018839}, "confidence":0.996885}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"../../data/rwdata/6a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.773384, "center_y":0.676166, "width":0.166519, "height":0.017954}, "confidence":0.877953}, 
+  {"class_id":19, "name":"Tax5", "relative_coordinates":{"center_x":0.642966, "center_y":0.239437, "width":0.016339, "height":0.006773}, "confidence":0.541574}, 
+  {"class_id":18, "name":"Tax4", "relative_coordinates":{"center_x":0.530750, "center_y":0.239265, "width":0.018151, "height":0.006591}, "confidence":0.708653}, 
+  {"class_id":17, "name":"Tax3", "relative_coordinates":{"center_x":0.418770, "center_y":0.239814, "width":0.016714, "height":0.007443}, "confidence":0.597315}, 
+  {"class_id":16, "name":"Tax2", "relative_coordinates":{"center_x":0.306616, "center_y":0.239541, "width":0.014425, "height":0.007903}, "confidence":0.573384}, 
+  {"class_id":15, "name":"ssn9", "relative_coordinates":{"center_x":0.907122, "center_y":0.450190, "width":0.020083, "height":0.015010}, "confidence":0.988439}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.880507, "center_y":0.449548, "width":0.017260, "height":0.013135}, "confidence":0.974455}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.861412, "center_y":0.450289, "width":0.017260, "height":0.012639}, "confidence":0.897990}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.840011, "center_y":0.449700, "width":0.020327, "height":0.012109}, "confidence":0.954486}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.795280, "center_y":0.448591, "width":0.020125, "height":0.013333}, "confidence":0.476670}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.780791, "center_y":0.450152, "width":0.017654, "height":0.015218}, "confidence":0.672123}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.777067, "center_y":0.448693, "width":0.037437, "height":0.016420}, "confidence":0.307219}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.729084, "center_y":0.450196, "width":0.020093, "height":0.012218}, "confidence":0.642329}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.708379, "center_y":0.449391, "width":0.019158, "height":0.011348}, "confidence":0.914322}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.681433, "center_y":0.449836, "width":0.014920, "height":0.015452}, "confidence":0.980266}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.281366, "center_y":0.675688, "width":0.094120, "height":0.017448}, "confidence":0.996767}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.181284, "center_y":0.372934, "width":0.084998, "height":0.014282}, "confidence":0.997481}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.228005, "center_y":0.206158, "width":0.213599, "height":0.017168}, "confidence":0.997200}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.136217, "center_y":0.239501, "width":0.028084, "height":0.010034}, "confidence":0.416300}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.275203, "center_y":0.175536, "width":0.309800, "height":0.018847}, "confidence":0.618960}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"../../data/rwdata/7a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.760145, "center_y":0.677099, "width":0.145686, "height":0.020590}, "confidence":0.986993}, 
+  {"class_id":20, "name":"Tax6", "relative_coordinates":{"center_x":0.131115, "center_y":0.265475, "width":0.013387, "height":0.007780}, "confidence":0.343096}, 
+  {"class_id":16, "name":"Tax2", "relative_coordinates":{"center_x":0.306556, "center_y":0.236276, "width":0.012336, "height":0.006645}, "confidence":0.389561}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.838062, "center_y":0.451719, "width":0.015305, "height":0.014597}, "confidence":0.977868}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.799034, "center_y":0.452413, "width":0.017264, "height":0.013836}, "confidence":0.973804}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.780817, "center_y":0.451015, "width":0.018834, "height":0.015122}, "confidence":0.949238}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.735574, "center_y":0.450485, "width":0.019266, "height":0.014670}, "confidence":0.950951}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.707648, "center_y":0.447860, "width":0.017005, "height":0.014695}, "confidence":0.767509}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.680933, "center_y":0.449147, "width":0.017480, "height":0.013311}, "confidence":0.942174}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.353866, "center_y":0.676175, "width":0.261349, "height":0.027834}, "confidence":0.980132}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.273798, "center_y":0.373877, "width":0.267471, "height":0.021598}, "confidence":0.838529}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.298048, "center_y":0.204493, "width":0.309124, "height":0.019420}, "confidence":0.881586}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.209818, "center_y":0.352140, "width":0.153961, "height":0.020363}, "confidence":0.919534}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.127096, "center_y":0.239830, "width":0.010277, "height":0.007636}, "confidence":0.305024}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.216340, "center_y":0.170548, "width":0.173349, "height":0.020720}, "confidence":0.999830}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"../../data/rwdata/8a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.748930, "center_y":0.678506, "width":0.125662, "height":0.021782}, "confidence":0.989852}, 
+  {"class_id":14, "name":"ssn8", "relative_coordinates":{"center_x":0.886087, "center_y":0.448944, "width":0.016578, "height":0.015790}, "confidence":0.489799}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.861680, "center_y":0.449097, "width":0.017434, "height":0.016688}, "confidence":0.379728}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.835594, "center_y":0.449506, "width":0.015981, "height":0.018763}, "confidence":0.915590}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.794183, "center_y":0.449886, "width":0.026575, "height":0.021783}, "confidence":0.664291}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.767496, "center_y":0.450070, "width":0.011842, "height":0.017486}, "confidence":0.862591}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.726370, "center_y":0.449038, "width":0.019711, "height":0.014706}, "confidence":0.712494}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.706753, "center_y":0.449469, "width":0.021803, "height":0.016349}, "confidence":0.609228}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.683384, "center_y":0.446780, "width":0.017903, "height":0.016797}, "confidence":0.599276}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.272487, "center_y":0.675935, "width":0.089216, "height":0.017834}, "confidence":0.966223}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.253284, "center_y":0.355677, "width":0.268568, "height":0.022732}, "confidence":0.848229}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.253284, "center_y":0.355677, "width":0.268568, "height":0.022732}, "confidence":0.620897}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.264144, "center_y":0.200930, "width":0.270618, "height":0.016541}, "confidence":0.934271}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.276340, "center_y":0.347999, "width":0.244317, "height":0.023840}, "confidence":0.481773}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.222931, "center_y":0.174631, "width":0.200346, "height":0.024341}, "confidence":0.785402}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"../../data/rwdata/9a.jpg", 
+ "objects": [ 
+  {"class_id":22, "name":"Date", "relative_coordinates":{"center_x":0.768154, "center_y":0.678559, "width":0.191938, "height":0.030624}, "confidence":0.393256}, 
+  {"class_id":17, "name":"Tax3", "relative_coordinates":{"center_x":0.415017, "center_y":0.239745, "width":0.015827, "height":0.007534}, "confidence":0.870860}, 
+  {"class_id":13, "name":"ssn7", "relative_coordinates":{"center_x":0.857547, "center_y":0.449852, "width":0.018649, "height":0.014270}, "confidence":0.746372}, 
+  {"class_id":12, "name":"ssn6", "relative_coordinates":{"center_x":0.834430, "center_y":0.447607, "width":0.017305, "height":0.015438}, "confidence":0.692441}, 
+  {"class_id":11, "name":"ssn5", "relative_coordinates":{"center_x":0.794376, "center_y":0.449872, "width":0.018250, "height":0.014851}, "confidence":0.865462}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.771791, "center_y":0.446860, "width":0.019704, "height":0.012995}, "confidence":0.674912}, 
+  {"class_id":10, "name":"ssn4", "relative_coordinates":{"center_x":0.771343, "center_y":0.446428, "width":0.040335, "height":0.015301}, "confidence":0.374744}, 
+  {"class_id":9, "name":"ssn3", "relative_coordinates":{"center_x":0.721182, "center_y":0.451596, "width":0.011758, "height":0.016309}, "confidence":0.819363}, 
+  {"class_id":8, "name":"ssn2", "relative_coordinates":{"center_x":0.701157, "center_y":0.448464, "width":0.015298, "height":0.013935}, "confidence":0.922622}, 
+  {"class_id":7, "name":"ssn1", "relative_coordinates":{"center_x":0.678715, "center_y":0.450557, "width":0.015552, "height":0.015134}, "confidence":0.575527}, 
+  {"class_id":6, "name":"Signature", "relative_coordinates":{"center_x":0.344579, "center_y":0.676072, "width":0.265336, "height":0.025453}, "confidence":0.922540}, 
+  {"class_id":4, "name":"City", "relative_coordinates":{"center_x":0.289666, "center_y":0.372896, "width":0.328639, "height":0.022556}, "confidence":0.564452}, 
+  {"class_id":3, "name":"BusinessName", "relative_coordinates":{"center_x":0.226460, "center_y":0.205561, "width":0.206359, "height":0.019851}, "confidence":0.516072}, 
+  {"class_id":2, "name":"Address", "relative_coordinates":{"center_x":0.250175, "center_y":0.359136, "width":0.268410, "height":0.022659}, "confidence":0.765326}, 
+  {"class_id":1, "name":"Tax", "relative_coordinates":{"center_x":0.127827, "center_y":0.240495, "width":0.013719, "height":0.006849}, "confidence":0.645895}, 
+  {"class_id":0, "name":"Name", "relative_coordinates":{"center_x":0.232799, "center_y":0.175772, "width":0.217647, "height":0.022347}, "confidence":0.911289}
+ ] 
+}
+]

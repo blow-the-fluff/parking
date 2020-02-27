@@ -1,0 +1,42 @@
+from PIL import Image
+
+field_coord = {'Name':(190,255),'Business':(196,331),'Address':(197,700),'City':(195,760),'AccNo':(191,830)}
+
+
+def convert(size, box):
+    dw = 1./size[0]
+    dh = 1./size[1]
+    x = (box[0] + box[1])/2.0
+    y = (box[2] + box[3])/2.0
+    w = box[1] - box[0]
+    h = box[3] - box[2]
+    x = x*dw
+    w = w*dw
+    y = y*dh
+    h = h*dh
+    return (x,y,w,h)
+
+def super_impose(location, i):
+    name_img, namex, namey = crop_image(Image.open(location + "Name" + str(i) + ".png").convert("RGBA"))
+    business_img, businessx, businessy = crop_image(Image.open(location + "Business" + str(i) + ".png").convert("RGBA"))
+    address_img, addressx, addressy = crop_image(Image.open(location + "Address" + str(i) + ".png").convert("RGBA"))
+    city_img, cityx, cityy = crop_image(Image.open(location + "City" + str(i) + ".png").convert("RGBA"))
+    accno_img, accnox, accnoy = crop_image(Image.open(location + "AccNo" + str(i) + ".png").convert("RGBA"))
+    background = Image.open(location + "Form.png").convert("RGBA")
+    background.paste(name_img, field_coord['Name'], name_img)
+    background.paste(business_img, field_coord['Business'], business_img)
+    background.paste(address_img, field_coord['Address'], address_img)
+    background.paste(city_img, field_coord['City'], city_img)
+    background.paste(accno_img, field_coord['AccNo'], accno_img)
+    background.save(location + 'superimposed' + str(i) + '.png',"PNG")
+    boundingboxes = {'Name':[190,255,namex + 190,namey + 255],'Business':[196,331,businessx + 196,businessy + 331],
+                   'Address':[197 ,700 ,addressx + 197,addressy + 700] ,'City':[195,760,cityx + 195, cityy + 760],
+                   'AccNo':[191,830,accnox + 191,accnoy + 830]}
+    for j in boundingboxes:
+        boundingboxes[j] = convert(np.array(img).shape,boundingboxes[j])    
+    return background, boundingboxes
+
+boundingboxes = {'Name':[190,255, 190, 255],'Business':[196,331, 196,331],
+                   'Address':[197 ,700 ,197,700]}
+
+

@@ -1,0 +1,5 @@
+superimpose/.ipynb_checkpoints/
+handwriting-synthesis/.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb_checkpoints*
+htr/.DS_Store
